@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1. Ayush Goyal
 2. Ajay
+3. Ayush Gupta
+ 
